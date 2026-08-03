@@ -1,8 +1,8 @@
-# Project Name
+# AURABot
 
 One line on what you're building.
 
-**Team:** Name, Name
+**Author:** Nihaal Yoosuf
 **Program:** Builder-in-Residence
 
 ## The problem
