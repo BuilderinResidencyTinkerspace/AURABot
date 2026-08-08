@@ -1,5 +1,10 @@
 # Week 2
 
+## 25/07/2026
+Shared my idea of the project with Claude, along with a couple of pictures of the pond.
+The constraints shared by Claude was the depth of the pond as well as if it would be seasonally dried up, once the time for presentation arrives.
+Visited the pond at 1 AM with Alen, dipped a midrib of the coconut frond, and found out that the first constraint was invalid. We found out that the stalk already dipped 3-4 feet.
+
 ## 26/07/2026
 Talked with a local about the pond.
 ###### He shared valuable insights.
