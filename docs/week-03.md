@@ -1,5 +1,6 @@
 # Week 3
 
+Did a field trip to answer some of the questions posed by Claude.
 **Goal this week:**
 
 ## What we did
