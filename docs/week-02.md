@@ -19,25 +19,4 @@ Talked with a local about the pond.
 - He mentioned that there were a lot of children who used to jump to the pond, but once the water started getting dirty, the children stopped coming and then it compounded to getting dirtier until the current state.
 - His first response when I approached him with the idea of cleaning the pond was, "You need to to ask the permission of the municipality", revealing a sort of hostility from the locals.
 
-**Goal this week:**
 
-## What we did
-
--
-
-## Problems and blockers
-
--
-
-## Decisions
-
--
-
-## Next week
-
--
-
-## Links
-
-- Code:
-- Photos / CAD:
