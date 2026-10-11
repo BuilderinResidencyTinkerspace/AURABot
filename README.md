@@ -36,7 +36,7 @@ At the demo on 20 September 2026 I had the two hulls and a conveyor with its bel
 - [License](#license)
 
 ## The pond
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/prototype-assembled-02oct.jpg)
+![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
 Most of these numbers come from my own visits, using a stone tied to a fishing line and measurements on a map.
 
 - The pond is about 25 m by 25 m, which is roughly 625 m².
