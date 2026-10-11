@@ -30,3 +30,9 @@ Therefore, these should be the first components to be designed and validated.
 The next step is to study the waste-collection mechanism used by **Clearbot**, break it down into its individual components, and understand how the conveyor mechanism and waste collection bin can be recreated using simple, accessible, and locally sourceable materials.
 
 **The goal is to build the functionality first, and the product around it later.**
+
+**02/09:** Spoke with the marine biology scholar again and shared more details. Her advice: start with phase 1, removing the floating weeds (not the rooted ones) and the microalgae, and consider the fish afterwards. I read the part about the fish as catching them before draining the pond, which is how the municipality's earlier clean-up worked. This is my interpretation and still needs confirming with her.
+Open concern: the earlier student experiment was followed by a fish die-off, so I need to ask whether even removing floating weeds is safe for the fish.
+Pond facts shared with her: surface area about 625 m². The drain is at about 8 ft and the water at about 5 ft, so the pond cannot drain. The municipal clean-up about five years ago reportedly cost around 45 to 50 lakh. It was left unfinished after a flash flood, which trapped some equipment inside the pond.
+
+**04/09:** Bought a 12V 85 RPM worm-gear motor from Matha Electronics for Rs. 1,770, paid by Tinkerspace.
