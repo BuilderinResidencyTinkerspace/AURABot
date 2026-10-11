@@ -16,3 +16,5 @@ The type of Algae is the biggest concern we should be having, because that deter
 I got the chance to talk to another local, Latheef, who also raised concerns about the possible after-effects of the proposed intervention. Similar to what his father had mentioned during my earlier visit, he recalled an incident in which a group of college students had previously conducted an experiment on the same pond. According to him, a large number of fish died approximately two days after the experiment, and an oily film was observed on the surface of the water.
 
 These accounts highlight the importance of carefully assessing the potential ecological impact of the proposed intervention, particularly its effects on fish and water quality.
+
+
