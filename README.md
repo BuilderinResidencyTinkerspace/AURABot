@@ -11,7 +11,7 @@ An open-source pond-cleaning robot built from PVC pipe and locally available par
 **License:** GPL-3.0 (see [`LICENSE.md`](LICENSE.md))
 
 **Status:** Prototype only. The two hulls and the conveyor frame are built. Propulsion, electronics and the collection bin are not.
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
+![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/prototype-assembled-02oct.jpg)
 
 There is a pond close to the Tinkerspace facility in Kochi that nobody uses any more. The water is stagnant, a green mat covers part of the surface, and litter has collected in it. Children used to swim here until the water got dirty. About five years ago the municipality started a clean-up that reportedly cost 40 to 50 lakh rupees, and it was left unfinished.
 
@@ -94,7 +94,7 @@ The Orange motors were already available at Tinkerspace. Sellers list them at ro
 
 **Hull.** Two 110 mm PVC pipes with caps on both ends float the robot, and PVC cross pipes join them. A mentor advised me to stop trying to build a finished-looking boat and use plain plumbing pipe, so that anyone can copy the build with parts from a local shop.
 
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
+![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/week-09-frame-parts-11sep.jpg)
 
 **Conveyor.** A mesh belt runs over two PVC rollers, about 40 cm wide, held between two aluminium side rails at 30 degrees. The lower end is meant to sit just under the water surface. As the belt turns, floating litter and weed ride up it and fall into a bin at the top. Only the top roller is driven, and the bottom roller just turns freely. A strip of timing belt is stuck under the mesh and around one roller so that the roller can drive the mesh without slipping.
 
@@ -112,9 +112,7 @@ The Orange motors were already available at Tinkerspace. Sellers list them at ro
 6. I cut the aluminium rails to the size of the bearings so each bearing sits partly inside, and fixed them with hot glue.
 7. Each roller is a PVC pipe about 40 cm wide. Its end caps are drilled so smaller, shorter pipes pass through them and into the bearings.
 8. I fitted the mesh net as the belt, and stuck the timing belt under it and around one roller. Then I tied the whole conveyor to the PVC cross pipes.
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
-![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/pond%20pic.jpg)
+![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/week-10-roller-with-bearings-19sep.jpg)
 ## Challenges faced
 
 - **Weight.** The steel pipe frame was too heavy for PVC hulls of a sensible size. Weight was the main reason the steel was replaced.
