@@ -13,7 +13,7 @@ Fishes are alive inside the pond. We can see visible signs like the fish surfaci
 
 The type of Algae is the biggest concern we should be having, because that determines the structure and design of the AURABot. We need to contact experts.
 
-I got the chance to talk to another local, Latheef, who also raised concerns about the possible after-effects of the proposed intervention. Similar to what his father had mentioned during my earlier visit, he recalled an incident in which a group of college students had previously conducted an experiment on the same pond. According to him, a large number of fish died approximately two days after the experiment, and an oily film was observed on the surface of the water.
+I got the chance to talk to another local, Latheef, who also raised concerns about the possible after-effects of the proposed intervention. Similar to what his father had mentioned during my earlier visit, he recalled an incident in which a group of college students had previously conducted an experiment on the same pond. According to him, a large number of fish died approximately two days after the experiment, and an oily film was observed on the surface of the water. Latheef also put me in touch with a local who has municipal connections. He supports the project, wants the pond clean so people can sit by its banks in the evenings, and offered to help clear any objections from the municipality. Consider whether you want to name him or describe his connections in a public repo.
 
 These accounts highlight the importance of carefully assessing the potential ecological impact of the proposed intervention, particularly its effects on fish and water quality.
 
