@@ -19,5 +19,6 @@ Talked with a local about the pond.
 - He mentioned that there were a lot of children who used to jump to the pond, but once the water started getting dirty, the children stopped coming and then it compounded to getting dirtier until the current state.
 - His first response when I approached him with the idea of cleaning the pond was, "You need to to ask the permission of the municipality", revealing a sort of hostility from the locals.
 
-Week 2 catchup (26/07/2026): Presented the abstract idea, a first hardware component list and a slide deck. The panel and audience highlighted the thought process behind the project. Visited MakerGram for components. The project was named AURABot (Aquatic Unit for Revival and Algae-Management).
+## Week 2 catchup (26/07/2026): 
+Presented the abstract idea, a first hardware component list and a slide deck. The panel and audience highlighted the thought process behind the project. Visited MakerGram for components. The project was named AURABot (Aquatic Unit for Revival and Algae-Management).
 
