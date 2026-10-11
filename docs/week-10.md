@@ -38,3 +38,5 @@ Not done yet:
 
 - Code: none tested yet
 - Photos / CAD: `photos/week-10-aluminium-frame-bearing-cutouts-19sep.jpg`, `photos/week-10-roller-with-bearings-19sep.jpg`, `photos/week-10-bearing-closeup-19sep.jpg`, `photos/prototype-assembled-02oct.jpg`
+
+- ![photo](https://github.com/BuilderinResidencyTinkerspace/AURABot/blob/main/docs/photos/prototype-assembled-02oct.jpg)
