@@ -148,7 +148,7 @@ The Orange motors were already available at Tinkerspace. Sellers list them at ro
 | --- | --- |
 | [`docs/`](docs) | Project overview and weekly logs (built with MkDocs Material) |
 | [`code/`](code) | Draft ESP32 firmware, untested |
-| [`cad/`](cad) | 3D models and design files, tracked with Git LFS (run `git lfs install` once before committing) |
+| [`cad/`](cad) | 3D models and design files, tracked with Git LFS |
 
 ## Weekly logs
 
